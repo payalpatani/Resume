@@ -25,7 +25,7 @@ export default function Projects() {
       <div className="container">
         <div className="row" style={{ justifyContent: "space-around" }}>
           <div className="col-lg-4 col-md-4 col-sm-12" data-aos="fade-right">
-            <a href="http://localhost:3002">
+            <a href="https://samsung-offical.netlify.app">
               <img
                 src='/samsung.png.png'
                 alt="Samsung Project"
@@ -44,30 +44,12 @@ export default function Projects() {
 
         <br /><br />
 
-        <div className="row" style={{ justifyContent: "space-around" }}>
-          <div className="col-lg-4 col-md-4 col-sm-12" data-aos="fade-right">
-            <a href="http://127.0.0.1:5500/page.html/live/boxes%20and%20projects/newproject1.html">
-              <img
-                src='/food.png.png'
-                alt="food"
-                className="img-fluid shadow-lg project-image"
-              />
-            </a>
-          </div>
-          <div className="col-lg-6 col-md-6 col-sm-12" style={{ textAlign: "justify" }} data-aos="fade-left">
-            <h4> Recafe – Food & Restaurant Template</h4>
-            <p><b style={{ color: "#bd5510" }}>Technologies Used :- (Only HTML , CSS , Not Responsive)</b></p>
-            <p style={{ color: "#8d8d8d" }} className='projectlines'>
-              Recafe is a beautifully designed, modern template tailored specifically for restaurants, cafes...
-            </p>
-          </div>
-        </div>
-
+      
         <br /><br />
 
         <div className="row" style={{ justifyContent: "space-around" }}>
           <div className="col-lg-4 col-md-4 col-sm-12" data-aos="fade-right">
-            <a href="http://127.0.0.1:5500/page.html/live/bootstarp%20final%20exam/bootstrap.html#">
+            <a href="https://bootstrapp-1234.netlify.app/">
               <img
                 src='/Geekproject.png.png'
                 alt="Geeks Online Learning"
