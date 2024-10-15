@@ -49,7 +49,7 @@ export default function Projects() {
 
         <div className="row" style={{ justifyContent: "space-around" }}>
           <div className="col-lg-4 col-md-4 col-sm-12" data-aos="fade-right">
-            <a href="https://bootstrapp-1234.netlify.app/">
+            <a href="https://bootstrapp-1234.netlify.app">
               <img
                 src='/Geekproject.png.png'
                 alt="Geeks Online Learning"
